@@ -4,11 +4,11 @@
 package lab8;
 
 public class Library {
-	
+
 	public static void main(String[] args) {
-		System.out.println("HEllo world");
+		System.out.println("HEllo from redsox!");
 	}
-	
+
     public boolean someLibraryMethod() {
         return true;
     }
